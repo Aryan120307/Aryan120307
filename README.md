@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00008B&height=200&section=header&text=Aryan%20Sharma&fontSize=40&fontColor=ffffff"/>
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;DSA+Problem+Solver;Future+Data+Scientist&center=true&width=650&height=45">
 </p>
 
