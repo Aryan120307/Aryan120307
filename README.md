@@ -38,9 +38,15 @@ CSS
 
 ## 📊 GitHub Stats
 
-(Add GitHub stats widget)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan120307&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan120307&layout=compact&theme=tokyonight)
+
 
 ---
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aryan1237?theme=dark&font=Baloo%202)
+
 
 ## 🧠 DSA Progress
 
