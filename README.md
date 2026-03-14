@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋 I'm Aryan Sharma
 
-<!--
-**Aryan120307/Aryan120307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data & Python Enthusiast  
+📊 Aspiring Data Scientist  
+🧠 Practicing Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+• Currently learning **Data Structures & Algorithms**  
+• Building **Python & Data Analysis Projects**  
+• Practicing problems on LeetCode  
+• Interested in **Machine Learning & Data Science**
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+SQL  
+Pandas  
+NumPy  
+Git  
+HTML  
+CSS  
+
+---
+
+## 📂 Featured Projects
+
+📊 Weather Data Analysis  
+📈 HR Analytics – Employee Attrition  
+🐝 US Honey Production Analysis  
+🧠 DSA Practice Repository  
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub stats widget)
+
+---
+
+## 🧠 DSA Progress
+
+LeetCode Problems Solved: **36+**
+
+Topics:
+Arrays  
+Binary Search  
+Linked List  
+Strings  
+
+---
+
+## 🎯 2026 Goals
+
+Solve **200+ LeetCode problems**  
+Build **5 Machine Learning Projects**  
+Improve **Data Visualization Skills**
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/aryan-sharma-4327a6321/
+
+LeetCode:  
+https://leetcode.com/u/Aryan1237/
