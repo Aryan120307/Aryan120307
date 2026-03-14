@@ -1,135 +1,113 @@
+<!-- Animated Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00008B&height=200&section=header&text=Aryan%20Sharma&fontSize=40&fontColor=ffffff"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;DSA+Problem+Solver;Future+Data+Scientist&center=true&width=650&height=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Aryan%20Sharma&fontSize=45&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Science%20Learner%20|%20DSA%20Explorer&descAlignY=55&descAlign=50"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Aryan Sharma</h1>
-
+<!-- Typing Animation -->
 <p align="center">
-💻 Python & Data Science Enthusiast <br>
-📊 Aspiring Data Scientist <br>
-🧠 DSA Learner
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Learner;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=600&height=50&color=00ffcc">
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aryan120307&color=blue">
-</p>
+---
+
+# 👋 Hi, I'm Aryan Sharma
+
+💻 **Python & Data Enthusiast**  
+📊 **Aspiring Data Scientist**  
+🧠 **Practicing Data Structures & Algorithms**
 
 ---
 
 # 🚀 About Me
 
-• Passionate about **Data Science & Machine Learning**
-• Practicing **Data Structures & Algorithms**
-• Building **Python Data Analysis Projects**
-• Experienced with **Linux & Git workflows**
-• Actively solving problems on **LeetCode**
+• 🎓 BCA Student from India  
+• 📊 Learning **Data Science & Machine Learning**  
+• 🧠 Practicing **DSA daily**  
+• 🛠 Building **Python Data Analysis Projects**
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Programming
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+### Data Science
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
+![Seaborn](https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge)
 
----
+### Machine Learning
+✔ Linear Regression  
+✔ Logistic Regression  
+✔ Decision Trees  
 
-### 📊 Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
----
-
-### 📈 Data Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
----
-
-### 🤖 Machine Learning
-
-Linear Regression
-Logistic Regression
-Decision Tree
-
----
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
 # 📂 Featured Projects
 
-📊 Weather Data Analysis
-
-📈 HR Analytics – Employee Attrition
-
-🐝 US Honey Production Analysis
-
-🧠 DSA Practice Repository
+📊 **Weather Data Analysis**  
+📈 **HR Analytics – Employee Attrition**  
+🐝 **US Honey Production Analysis**  
+🧠 **DSA Practice Repository**
 
 ---
 
 # 📊 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan120307\&show_icons=true\&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan120307\&layout=compact\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aryan120307&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aryan120307\&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan120307&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan120307&theme=tokyo-night"/>
 
 ---
 
 # 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aryan1237?theme=dark\&font=Baloo%202)
+<img src="https://leetcard.jacoblin.cool/Aryan1237?theme=dark&font=Baloo%202"/>
 
 ---
 
 # 🧠 DSA Progress
 
+✔ Arrays  
+✔ Binary Search  
+✔ Linked List  
+✔ Strings  
+
 LeetCode Problems Solved: **36+**
-
-Topics Covered
-
-Arrays
-Binary Search
-Linked List
-Strings
 
 ---
 
 # 🎯 2026 Goals
 
-✔ Solve **200+ LeetCode Problems**
-
-✔ Build **5 Machine Learning Projects**
-
-✔ Master **Data Visualization**
+🚀 Solve **200+ LeetCode Problems**  
+📊 Build **5 Machine Learning Projects**  
+📈 Improve **Data Visualization Skills**
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn
+💼 LinkedIn  
 https://www.linkedin.com/in/aryan-sharma-4327a6321/
 
-LeetCode
+🧠 LeetCode  
 https://leetcode.com/u/Aryan1237/
-
-GitHub
-https://github.com/Aryan120307
 
 ---
 
