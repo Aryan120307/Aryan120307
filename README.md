@@ -1,11 +1,13 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-6c7e0e52-7d47-4b4f-bab3-0cdb1e7c5e76.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284090-7f2a7eaa-bd7b-4d59-8d4f-b9d76f7b6c61.gif" width="900">
 </p>
 
+<h1 align="center">Aryan Sharma</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aryan+Sharma;Data+Science+Enthusiast;Machine+Learning+Learner;DSA+Problem+Solver&center=true&width=700&height=50&color=00F7FF&size=28">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Learner;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=600&height=45">
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16d07e5c-7c6d-4e4e-b8b1-efb2e5d3c8c3.gif">
+
 
 # Hi 👋 I'm Aryan Sharma
 
