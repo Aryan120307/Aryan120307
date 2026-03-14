@@ -1,10 +1,14 @@
+<!-- Animated Banner -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Learner;Python+Developer;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=500&height=45&color=00FFFF">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Aryan%20Sharma&fontSize=45&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Data%20Science%20Learner%20|%20DSA%20Explorer&descAlignY=55&descAlign=50"/>
 </p>
-<h1 align="center">Aryan Sharma</h1>
+
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Learner;Python+Developer;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=500&height=45&color=00FFFF">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Learner;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=600&height=50&color=00ffcc">
 </p>
+
+---
 
 # Hi 👋 I'm Aryan Sharma
 
