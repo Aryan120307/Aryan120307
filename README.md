@@ -1,15 +1,23 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284090-7f2a7eaa-bd7b-4d59-8d4f-b9d76f7b6c61.gif" width="900">
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
 </p>
-
 <h1 align="center">Aryan Sharma</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Science+Learner;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=600&height=45">
+Data Science Learner • Python Developer • DSA Explorer
 </p>
+[ Neural Network Animation Banner ]
+
+Aryan Sharma
+Data Science Learner | Python Developer
+
 
 
 # Hi 👋 I'm Aryan Sharma
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Learner;Python+Developer;Machine+Learning+Explorer;DSA+Problem+Solver&center=true&width=500&height=45&color=00FFFF">
+</p>
+
 
 
 💻 **Python & Data Enthusiast**  
