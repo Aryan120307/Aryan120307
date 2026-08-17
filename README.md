@@ -89,7 +89,7 @@
 ✔ Linked List  
 ✔ Strings  
 
-LeetCode Problems Solved: **75+**
+LeetCode Problems Solved: **100+**
 
 ---
 
